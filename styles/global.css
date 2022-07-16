@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	@apply text-gray-500;
+}
+
+.header-button {
+	@apply text-gray-400 text-2xl p-2;
+}
